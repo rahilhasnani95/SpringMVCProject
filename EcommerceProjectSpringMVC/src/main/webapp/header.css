@@ -1,0 +1,25 @@
+/* @charset "ISO-8859-1";
+ul
+{
+	overflow: hidden;
+	background: #333;
+}
+a
+{
+	padding-right: 20px;
+}
+
+li
+{	
+display: inline;	
+
+float: right;
+
+}
+.welcome{
+	color: white;
+	float: left;
+	font-family: cursive;
+	font-size: 28px;
+}
+ */
